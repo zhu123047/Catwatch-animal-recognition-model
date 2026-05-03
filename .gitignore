@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Training artifacts (regenerate locally)
+data/epic3/images/*
+!data/epic3/images/.gitkeep
+data/epic3/raw/
+models/epic3/*.pt
+models/epic3/backups/
+
+# Logs
+logs/
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Postgres runtime data (never commit volumes)
+postgres/data/
+postgres/backup/
+postgres/.env
+
+# Large course binaries in repo root (optional)
+*.docx
+*.pdf

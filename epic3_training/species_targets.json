@@ -1,0 +1,162 @@
+[
+  {
+    "scientific_name": "Trichoglossus moluccanus",
+    "common_name": "Rainbow Lorikeet",
+    "taxon_name": "Trichoglossus moluccanus"
+  },
+  {
+    "scientific_name": "Gymnorhina tibicen",
+    "common_name": "Australian Magpie",
+    "taxon_name": "Gymnorhina tibicen"
+  },
+  {
+    "scientific_name": "Platycercus elegans",
+    "common_name": "Crimson Rosella",
+    "taxon_name": "Platycercus elegans"
+  },
+  {
+    "scientific_name": "Trichosurus vulpecula",
+    "common_name": "Common Brushtail Possum",
+    "taxon_name": "Trichosurus vulpecula"
+  },
+  {
+    "scientific_name": "Anas superciliosa",
+    "common_name": "Pacific Black Duck",
+    "taxon_name": "Anas superciliosa"
+  },
+  {
+    "scientific_name": "Cacatua galerita",
+    "common_name": "Sulphur-crested Cockatoo",
+    "taxon_name": "Cacatua galerita"
+  },
+  {
+    "scientific_name": "Cacatua sanguinea",
+    "common_name": "Little Corella",
+    "taxon_name": "Cacatua sanguinea"
+  },
+  {
+    "scientific_name": "Eolophus roseicapilla",
+    "common_name": "Galah",
+    "taxon_name": "Eolophus roseicapilla"
+  },
+  {
+    "scientific_name": "Dacelo novaeguineae",
+    "common_name": "Laughing Kookaburra",
+    "taxon_name": "Dacelo novaeguineae"
+  },
+  {
+    "scientific_name": "Manorina melanocephala",
+    "common_name": "Noisy Miner",
+    "taxon_name": "Manorina melanocephala"
+  },
+  {
+    "scientific_name": "Grallina cyanoleuca",
+    "common_name": "Magpie-lark",
+    "taxon_name": "Grallina cyanoleuca"
+  },
+  {
+    "scientific_name": "Anthochaera carunculata",
+    "common_name": "Red Wattlebird",
+    "taxon_name": "Anthochaera carunculata"
+  },
+  {
+    "scientific_name": "Zosterops lateralis",
+    "common_name": "Silvereye",
+    "taxon_name": "Zosterops lateralis"
+  },
+  {
+    "scientific_name": "Malurus cyaneus",
+    "common_name": "Superb Fairywren",
+    "taxon_name": "Malurus cyaneus"
+  },
+  {
+    "scientific_name": "Phylidonyris novaehollandiae",
+    "common_name": "New Holland Honeyeater",
+    "taxon_name": "Phylidonyris novaehollandiae"
+  },
+  {
+    "scientific_name": "Strepera graculina",
+    "common_name": "Pied Currawong",
+    "taxon_name": "Strepera graculina"
+  },
+  {
+    "scientific_name": "Rhipidura leucophrys",
+    "common_name": "Willie Wagtail",
+    "taxon_name": "Rhipidura leucophrys"
+  },
+  {
+    "scientific_name": "Acridotheres tristis",
+    "common_name": "Common Myna",
+    "taxon_name": "Acridotheres tristis"
+  },
+  {
+    "scientific_name": "Hirundo neoxena",
+    "common_name": "Welcome Swallow",
+    "taxon_name": "Hirundo neoxena"
+  },
+  {
+    "scientific_name": "Spilopelia chinensis",
+    "common_name": "Spotted Dove",
+    "taxon_name": "Spilopelia chinensis"
+  },
+  {
+    "scientific_name": "Vanellus miles",
+    "common_name": "Masked Lapwing",
+    "taxon_name": "Vanellus miles"
+  },
+  {
+    "scientific_name": "Threskiornis molucca",
+    "common_name": "Australian White Ibis",
+    "taxon_name": "Threskiornis molucca"
+  },
+  {
+    "scientific_name": "Microcarbo melanoleucos",
+    "common_name": "Little Pied Cormorant",
+    "taxon_name": "Microcarbo melanoleucos"
+  },
+  {
+    "scientific_name": "Chenonetta jubata",
+    "common_name": "Australian Wood Duck",
+    "taxon_name": "Chenonetta jubata"
+  },
+  {
+    "scientific_name": "Anas castanea",
+    "common_name": "Chestnut Teal",
+    "taxon_name": "Anas castanea"
+  },
+  {
+    "scientific_name": "Platycercus eximius",
+    "common_name": "Eastern Rosella",
+    "taxon_name": "Platycercus eximius"
+  },
+  {
+    "scientific_name": "Macropus giganteus",
+    "common_name": "Eastern Grey Kangaroo",
+    "taxon_name": "Macropus giganteus"
+  },
+  {
+    "scientific_name": "Notamacropus rufogriseus",
+    "common_name": "Red-necked Wallaby",
+    "taxon_name": "Notamacropus rufogriseus"
+  },
+  {
+    "scientific_name": "Phascolarctos cinereus",
+    "common_name": "Koala",
+    "taxon_name": "Phascolarctos cinereus"
+  },
+  {
+    "scientific_name": "Vombatus ursinus",
+    "common_name": "Common Wombat",
+    "taxon_name": "Vombatus ursinus"
+  },
+  {
+    "scientific_name": "Tachyglossus aculeatus",
+    "common_name": "Short-beaked Echidna",
+    "taxon_name": "Tachyglossus aculeatus"
+  },
+  {
+    "scientific_name": "Tiliqua scincoides",
+    "common_name": "Eastern Blue-tongued Lizard",
+    "taxon_name": "Tiliqua scincoides"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "scientific_name": "Acridotheres tristis",
+    "common_name": "Common Myna"
+  },
+  {
+    "scientific_name": "Anas castanea",
+    "common_name": "Chestnut Teal"
+  },
+  {
+    "scientific_name": "Anas superciliosa",
+    "common_name": "Pacific Black Duck"
+  },
+  {
+    "scientific_name": "Anthochaera carunculata",
+    "common_name": "Red Wattlebird"
+  },
+  {
+    "scientific_name": "Cacatua galerita",
+    "common_name": "Sulphur-crested Cockatoo"
+  },
+  {
+    "scientific_name": "Cacatua sanguinea",
+    "common_name": "Little Corella"
+  },
+  {
+    "scientific_name": "Chenonetta jubata",
+    "common_name": "Australian Wood Duck"
+  },
+  {
+    "scientific_name": "Dacelo novaeguineae",
+    "common_name": "Laughing Kookaburra"
+  },
+  {
+    "scientific_name": "Eolophus roseicapilla",
+    "common_name": "Galah"
+  },
+  {
+    "scientific_name": "Grallina cyanoleuca",
+    "common_name": "Magpie-lark"
+  },
+  {
+    "scientific_name": "Gymnorhina tibicen",
+    "common_name": "Australian Magpie"
+  },
+  {
+    "scientific_name": "Hirundo neoxena",
+    "common_name": "Welcome Swallow"
+  },
+  {
+    "scientific_name": "Macropus giganteus",
+    "common_name": "Eastern Grey Kangaroo"
+  },
+  {
+    "scientific_name": "Malurus cyaneus",
+    "common_name": "Superb Fairywren"
+  },
+  {
+    "scientific_name": "Manorina melanocephala",
+    "common_name": "Noisy Miner"
+  },
+  {
+    "scientific_name": "Microcarbo melanoleucos",
+    "common_name": "Little Pied Cormorant"
+  },
+  {
+    "scientific_name": "Notamacropus rufogriseus",
+    "common_name": "Red-necked Wallaby"
+  },
+  {
+    "scientific_name": "Phascolarctos cinereus",
+    "common_name": "Koala"
+  },
+  {
+    "scientific_name": "Phylidonyris novaehollandiae",
+    "common_name": "New Holland Honeyeater"
+  },
+  {
+    "scientific_name": "Platycercus elegans",
+    "common_name": "Crimson Rosella"
+  },
+  {
+    "scientific_name": "Platycercus eximius",
+    "common_name": "Eastern Rosella"
+  },
+  {
+    "scientific_name": "Rhipidura leucophrys",
+    "common_name": "Willie Wagtail"
+  },
+  {
+    "scientific_name": "Spilopelia chinensis",
+    "common_name": "Spotted Dove"
+  },
+  {
+    "scientific_name": "Strepera graculina",
+    "common_name": "Pied Currawong"
+  },
+  {
+    "scientific_name": "Tachyglossus aculeatus",
+    "common_name": "Short-beaked Echidna"
+  },
+  {
+    "scientific_name": "Threskiornis molucca",
+    "common_name": "Australian White Ibis"
+  },
+  {
+    "scientific_name": "Tiliqua scincoides",
+    "common_name": "Eastern Blue-tongued Lizard"
+  },
+  {
+    "scientific_name": "Trichoglossus moluccanus",
+    "common_name": "Rainbow Lorikeet"
+  },
+  {
+    "scientific_name": "Trichosurus vulpecula",
+    "common_name": "Common Brushtail Possum"
+  },
+  {
+    "scientific_name": "Vanellus miles",
+    "common_name": "Masked Lapwing"
+  },
+  {
+    "scientific_name": "Vombatus ursinus",
+    "common_name": "Common Wombat"
+  },
+  {
+    "scientific_name": "Zosterops lateralis",
+    "common_name": "Silvereye"
+  }
+]

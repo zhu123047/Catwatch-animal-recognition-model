@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+psycopg2-binary
+pydantic
+torch
+torchvision
+pillow
+pandas
+requests
+tqdm
+scikit-learn
+pytest
+httpx
+
